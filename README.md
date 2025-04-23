@@ -1,2 +1,2 @@
 # Regression-Analysis
-During MAT402, I worked on a dataset and conducted regression models on it. 
+During MAT402, Applied Regression Analysis, I worked with a partner to analyze a dataset of 1,000 social media users. In this, we wanted to explore the relationship between platform usage and self-reported emotional well-being using multiple linear regression. We also built and interpreted fitted and full regression models, achieving an adjusted R-squared value of 0.935, indicating strong predictive performance and a clear correlation between usage patterns and emotions.
